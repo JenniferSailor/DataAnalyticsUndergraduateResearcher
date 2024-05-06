@@ -12,3 +12,9 @@ Responsibilities:
 
 Links:
 https://reu.cs.mu.edu/index.php/Predict_Likelihood_of_Completion_for_Future_Lifestyle_Medicine_Program
+
+Contents:
+- Final Paper: Summarizing the work throughout the internship
+- Final Presentation: Presented to fellow students and mentors at the commencement of internship
+- Final Poster: Presented during a virtual poster symposium for all midwest NSF REU projects
+- RCode: The final Rcode used to complete data analysis
